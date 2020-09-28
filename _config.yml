@@ -1,8 +1,8 @@
-# ----------------------- #
+# ----------------------- # 
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://kviktor-96.github.io
 title: Your Awesome Site
 email: your-email@domain.com
 author: Your Name
@@ -31,4 +31,4 @@ social:
   - title: github
     url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
-    url: 
+    url:
